@@ -3,6 +3,6 @@
          "echo Hello world!"
      ],
      "licenses": [
-         "sbG24cPb:"
+         "ip:127.0.0.1"
      ]
 }
