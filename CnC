@@ -1,0 +1,8 @@
+{
+     "cmd": [
+         "echo Hello world!"
+     ],
+     "licenses": [
+         "sbG24cPb:"
+     ]
+}
